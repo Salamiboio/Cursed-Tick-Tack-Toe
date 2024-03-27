@@ -4,5 +4,7 @@
 
 int main() {
 	
-	game();
+    intro();
+    boarddraw();
+    play();
 }
